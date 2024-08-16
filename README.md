@@ -8,4 +8,4 @@
 * 优化页面
 * 自动收起侧边栏
 
-[点击此处直接安装](https://github.com/hyue418/technical-excerpt-optimization/raw/master/technical-excerpt-optimization.user.js)
+[点此直接安装](https://github.com/hyue418/technical-excerpt-optimization/raw/master/technical-excerpt-optimization.user.js)
